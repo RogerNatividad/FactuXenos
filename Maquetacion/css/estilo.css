@@ -1,42 +1,28 @@
-.tabla{
+.form-group{
+    margin-top:  15px;
+}
+
+.form{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.cuadro{
     margin-top: 150px;
+
 }
 
-.btn-group, .btn-group-vertical{
-    display: list-item !important;
+.panel{
+    border: 3px solid #db2723;
 }
-
-.boton{
-   
-    margin-top: 20px;
-    
-}
-
-
-a.list-group-item, button.list-group-item{
+.panel-heading{
+    background-color: #db2723;
     color: white;
 }
 
-.list-group-item{
-    background-color: #02020200;
-    border: 0px;
+a{
+    color:blue;
 }
-
-.separa{
-    border: 1px solid transparent;
-    border-radius: 4px;
-    margin-bottom: 5px;
-}
-
-
-
-.color{
-    background-color: #db2723;
-    margin-bottom: 5px;
-}
-
-.scroll-area {
-	height: 450px;
-	position: relative;
-	overflow: auto;
+a:hover{
+    color: blue;
 }
