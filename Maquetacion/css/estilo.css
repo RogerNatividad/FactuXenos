@@ -1,0 +1,28 @@
+.form-group{
+    margin-top:  15px;
+}
+
+.form{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.cuadro{
+    margin-top: 150px;
+  
+}
+
+.panel{
+    border: 3px solid #db2723;
+}
+.panel-heading{
+    background-color: #db2723;
+    color: white;
+}
+
+a{
+    color:blue;
+}
+a:hover{
+    color: blue;
+}
