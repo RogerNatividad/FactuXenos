@@ -1,0 +1,42 @@
+.tabla{
+    margin-top: 150px;
+}
+
+.btn-group, .btn-group-vertical{
+    display: list-item !important;
+}
+
+.boton{
+   
+    margin-top: 20px;
+    
+}
+
+
+a.list-group-item, button.list-group-item{
+    color: white;
+}
+
+.list-group-item{
+    background-color: #02020200;
+    border: 0px;
+}
+
+.separa{
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+
+
+
+.color{
+    background-color: #db2723;
+    margin-bottom: 5px;
+}
+
+.scroll-area {
+	height: 450px;
+	position: relative;
+	overflow: auto;
+}

@@ -1,0 +1,98 @@
+
+
+
+
+body {
+  position: relative;
+/*  font-family: 'Roboto', sans-serif; */
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+.mm-magin{
+	margin: 0;
+}
+.mm-magin-top{
+	margin-top: 15px;
+}
+
+footer {
+	margin-top: 20px;
+	background-color: #424242;
+	padding: 15px 0 0 0;
+  color: #d9d9d9;
+}
+
+nav.navbar {
+	background-color: #FFF;
+	border-color: #FFF;
+}
+nav a.navbar-brand {
+	padding: 0;
+	padding-top: 11px;
+	padding-right: 10px;
+}
+
+.navbar-brand img{
+	width: 200px;
+
+}
+
+/* For mobile custom */
+
+
+
+footer .footer-row {
+	background-color: #2d2d2d;
+	border-bottom: 3px solid #db2723;
+	padding: 15px 0;
+}
+footer .footer-row p{
+	margin: 0;
+	padding: 15px;
+  color: #ababab;
+}
+
+.caption .text-center {
+	font-size: 16px;
+	line-height: 1.7;
+}
+
+.panel-heading +.panel-body{
+	font-size: 16px;
+	line-height: 1.7;
+}
+
+footer .row, footer address{
+	line-height: 1.7;
+}
+footer address a, footer address a:hover{
+  color: #db2723;
+}
+
+/* cambios (update website) */
+
+
+.navbar-default .navbar-nav > li > a {
+    color: #1b1b1b;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding: 9px 17px;
+
+    }
+
+.nav {
+    list-style: outside none none;
+    margin-bottom: 0;
+    padding: 11px 0;
+ }
+
+ .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #db2723;
+    color: #fff;
+}
+
